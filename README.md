@@ -17,7 +17,7 @@ These gadgets use the Rainmeter 4.2 UsageMonitor plugin, and as a result do not 
 The installer is in the form of a patch, which will patch your existing [Gadgets](https://github.com/SilverAzide/Gadgets) installation without affecting your existing configuration or layouts. If you don't have the Gadgets suite installed, these will install as standalone skins.
 
 ## Requirements
-Rainmeter 4.3.1 or later: <https://www.rainmeter.net>.<br>
+Rainmeter 4.4.0 or later: <https://www.rainmeter.net>.<br>
 Top GPU Meter requires Windows 10 Fall Creator's Update (v1709) or later.
 
 ## Attribution
