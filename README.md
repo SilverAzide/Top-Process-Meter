@@ -13,7 +13,7 @@ These gadgets use the Rainmeter 4.2 UsageMonitor plugin, and as a result do not 
 * Shows Resource Monitor when gadget is double-clicked.
 * Scales to any desired size.
 
-**NOTE**<br>
+**NOTE:**<br>
 The installer is in the form of a patch, which will patch your existing [Gadgets](https://github.com/SilverAzide/Gadgets) installation without affecting your existing configuration or layouts. If you don't have the Gadgets suite installed, these will install as standalone skins.
 
 ## Requirements
