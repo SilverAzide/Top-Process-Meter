@@ -26,6 +26,7 @@ Top GPU Meter requires Windows 10 Fall Creator's Update (v1709) or later.
 
 ## Attribution
 * [Gadgets](https://github.com/SilverAzide/Gadgets) by [SilverAzide](https://github.com/SilverAzide).
+* Top Process Meter includes [ColorPickerPlus](https://github.com/raiguard/ColorPickerPlus) by raiguard, with mods by me.
 
 ## License
 Creative Commons Attribution-Noncommercial-Share Alike 3.0 License
