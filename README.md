@@ -24,14 +24,14 @@ These gadgets use the UsageMonitor plugin (added in Rainmeter 4.2.0), and as a r
 * Scales to any desired size.
 
 ## Requirements
-[Rainmeter 4.4.0 or later](https://www.rainmeter.net).<br>
+[Rainmeter 4.4.0.3438 or later](https://www.rainmeter.net).<br>
 Top GPU Meter requires Windows 10 Fall Creator's Update (v1709) or later.
 
 ## Attribution
 * [Gadgets](https://github.com/SilverAzide/Gadgets/#readme) by [SilverAzide](https://github.com/SilverAzide).
 
 ## License
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 
 ---
 [![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Top-Process-Meter/total?logo=github&color=blue&style=for-the-badge)](https://github.com/SilverAzide/Top-Process-Meter/releases)
