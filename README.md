@@ -35,4 +35,3 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-
 
 ---
 [![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Top-Process-Meter/total?logo=github&color=blue&style=for-the-badge)](https://github.com/SilverAzide/Top-Process-Meter/releases)
-[![DeviantArt All Releases](https://img.shields.io/badge/dynamic/json?logo=deviantart&label=Downloads&color=05cc47&style=for-the-badge&query=%24.community.statistics._attributes.downloads&url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%253A%252F%252Fwww.deviantart.com%252Fsilverazide2%252Fart%252FTop-Process-Meter-Gadgets-Patch-5-2-0-859317136%26format%3Djson)](https://www.deviantart.com/silverazide2/art/Top-Process-Meter-Gadgets-Patch-5-2-0-859317136)
