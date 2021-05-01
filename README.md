@@ -6,7 +6,7 @@
 ##### NOTE:
 :warning: **Top Process Meter** is now included as part of the Gadgets suite. [Get the latest Gadgets here](https://github.com/SilverAzide/Gadgets). :warning:
 
-This repository is maintained for users of older versions.
+This repository is maintained for users of older versions. **DO NOT install this if using Gadgets 6.0.0 or later.**
 
 ---
 The Top Process Meter Gadgets monitor the CPU, GPU, RAM, and I/O utilization of the top 10 processes on your computer, with styling to match the [Gadgets](https://github.com/SilverAzide/Gadgets/#readme) suite.
